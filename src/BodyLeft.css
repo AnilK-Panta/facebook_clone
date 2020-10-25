@@ -1,0 +1,35 @@
+.Home_left{
+    width: 25%;
+    position: fixed;
+    
+}
+.Left_list_top{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    padding-top: 70px;
+}
+.Left_list{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: -8px;
+}
+.Image_part{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.Image_style{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+.Name_part{
+    margin-left: 10px;
+}
+p{
+    font-weight: 500;
+    color: rgb(36, 35, 35);
+}
